@@ -1,4 +1,4 @@
-php <code></code>$a=10;
+ <code></code>$a=10;
 $b=10;
 $c=$a*$b;
-echo "multiplication of 2 number".$c;
+echo "multiplication of 2 number".$c
